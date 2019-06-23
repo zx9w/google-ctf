@@ -1,0 +1,10 @@
+* Google CTF
+** Crypto
+*** Reality
+    Hint: Shamir did the job for you, just connect to the challenge and get the flag.
+    
+    TODO : Skrifa dependently typed data dæmi í Idris sem getur gefið alskyns formats.
+
+** Misc
+*** CodeGolf
+    Makes me want to cry.
